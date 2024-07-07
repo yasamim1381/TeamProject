@@ -1,3 +1,4 @@
+#zahra sahamivand
 text_dot = input()
 text = text_dot.replace("."," ")
 text_set = set(text.split())
